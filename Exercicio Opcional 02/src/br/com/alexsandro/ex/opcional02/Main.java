@@ -1,4 +1,4 @@
-package br.com.alexsandro.ex.opcional2;
+package br.com.alexsandro.ex.opcional02;
 
 import java.util.Scanner;
 
